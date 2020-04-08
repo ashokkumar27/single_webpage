@@ -10,7 +10,7 @@ img.navbar-logo{
     width: 100px;
 }
 #home-section {
-    background: url('../img/psd2html.jpg') no-repeat center top;
+    background: url('../img/first_cover.jpg') no-repeat center top;
     background-size: cover;
     background-attachment: fixed;
     min-height: 750px;
